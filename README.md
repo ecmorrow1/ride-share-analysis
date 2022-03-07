@@ -32,7 +32,7 @@ Despite accounting for more than 60% of the total fare revenue, the average fare
 
 ### Total Drivers and Average Fare per Driver
 
-These data were aggregated together to highlight their inverse relationship. Where a lower driver count would intuitively suggest that each driver is receiving a higher average fare, the data support this.  The total driver count for rural cities are is the lowest at 78, resulting in an average fare per driver of $55.49.  The total driver count for suburban cities is 490, resulting in an average fare per driver of $39.50.  The total driver count for urban cities is 2405, resutling in an average fare per driver of $16.57.
+These data were aggregated together to highlight their inverse relationship. Where a lower driver count would intuitively suggest that each driver is receiving a higher fare per driver, the data support this.  The total driver count for rural cities are is the lowest at 78, resulting in an average fare per driver of $55.49.  The total driver count for suburban cities is 490, resulting in an average fare per driver of $39.50.  The total driver count for urban cities is 2405, resutling in an average fare per driver of $16.57.
 
 ## Summary
 
