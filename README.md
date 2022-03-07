@@ -24,7 +24,7 @@ Urban rides account for 62.72% of total revenue with $39,854.38 of the $63,538.6
 
 Furthermore, these revenue totals do not appear to be the result of any anormal spikes as the weekly total fares assessed from 2019-01-01 to 2019-04-28 indicate fairly steady behavior.
 
-![Weekly Total Fare by City Type](Analysis/fare_data_by_city_type.PNG)
+![Weekly Total Fare by City Type](Analysis/PyBer_fare_summary.png)
 
 ### Average Fare per Ride
 
@@ -48,3 +48,8 @@ Across all city types, run a promotional period of discounted rates.  To the ext
 
 Incentivize or otherwise encourage some number of urban drivers to move their service area out to suburban and rural areas as appropriate.  An excess of drivers compared to rides in any area is beneficial only in the short term, in that it greatly increases the chance that a potential customer will havea an available driver nearby when a ride is needed.  However, the long term effect of having more drivers than customers in an area is that the drivers will eventually leave due to a lack of income.
 
+Rebalancing available drivers to potentially underserved service areas will not only offer availability of the service to more customers, but it will also take advantage of the higher average fare per ride of those areas.
+
+### Recommendation 3
+
+Offer new-driver bonuses in suburban and rural areas in order to increase the driver presence in those areas.  Like recommendation 2, this is aimed at allowing the company to take advantage of the higher average fare per ride by increasing the availability of service in suburban and rural areas.
