@@ -14,7 +14,7 @@ A quick glance at the summary of fare information compared against city types te
 
 ### Total Ridership
 
-There are 13 times as many urban rides as there are rural rides (1625 vs 125) and 5 times as many suburban rides as rural rides (625 vs 125).  As a result, the data indicate that urban rides account for more than 50% of total ridership for PyBer.
+There are 13 times as many urban rides as there are rural rides (1,625 vs 125) and 5 times as many suburban rides as rural rides (625 vs 125).  As a result, the data indicate that urban rides account for 68.4% of total ridership for PyBer, while suburban rides account for 26.3% and rural rides account for 5.3%.
 
 ### Total Revenue
 
@@ -39,6 +39,8 @@ These data were aggregated together to highlight their inverse relationship. Whe
 ### Assessment
 
 The data provided show trends that are consistent with intuitive expectations.  Urban cities have a higher total ride count and a higher total driver count, both of which are likely due to the higher population density.  The average fare per ride in urban areas is lower, likely due to rides covering shorter distances and taking less time.  Rural areas show the opposite, likely because rides cover longer distances.  Even the less than ideal state of having a decreased average fare per driver is intuitive as a result of having more drivers than rides, albeit unfortunate.
+
+Based on the data, the following are recommendations for the business that area aimed at increasing ridership as well as increasing the ability for the company to service that increased ridership.
 
 ### Recommendation 1
 
